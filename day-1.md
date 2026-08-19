@@ -1,5 +1,7 @@
 <h1> # Daily Learning </h1>
 <h2> ## Morning Planning </h2>
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
+
 
 <h2> ## Review </h2>
 
